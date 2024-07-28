@@ -4,9 +4,5 @@
   margin: auto;
   font-size: 16px;
   line-height: 20px;
-  /*For Inter, use Arial as a fallback and use the generic sans-serif
-family in case the user doesn’t have either of the other fonts.
-For Noto Serif, use Times New Roman as a fallback and use the
-generic serif family in case the user doesn’t have either of
-the other fonts.*/
+  font-family: Inter, Arial, sans-serif;
 }
