@@ -139,3 +139,84 @@
   line-height: 30px;
   margin: 24px 0 0;
 }
+
+.reservation {
+  padding: 100px 0 120px;
+  background: #d9e7ff url(/images/background_reservation.svg) no-repeat
+    center/cover;
+}
+
+.reservation__title {
+  margin: 0 0 80px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.reservation__form {
+  margin: 0 auto;
+}
+
+.form {
+  max-width: 385px;
+}
+
+.form__fieldset {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.form__label {
+  margin-bottom: 32px;
+  display: block;
+  font-weight: 500;
+}
+
+.form__label_type_checkbox {
+  display: flex;
+  justify-content: center;
+  border-radius: 2px;
+}
+
+.form__input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0;
+  margin-top: 8px;
+  height: 60px;
+  padding-left: 15px;
+}
+
+.form__input::placeholder {
+  font-family: Inter;
+  font-size: 20px;
+  line-height: 30px;
+  color: #838383;
+}
+
+.form__button {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  margin-bottom: 32px;
+  border-radius: 4px;
+  transition: 0.5s ease-in-out;
+  background-color: #2f80ed;
+  color: #ffffff;
+  height: 60px;
+  font-weight: 500;
+}
+
+.form__button:hover {
+  opacity: 70%;
+}
+
+.form__checkbox {
+  border-radius: 2px;
+  height: 20px;
+  width: 20px;
+  margin: 0 12px 0 0;
+}
