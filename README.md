@@ -1,6 +1,8 @@
 # Triple Peaks Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+## Project description
+
+The landing page of a hypothetical coffee shop. You're able to watch recipe videos, book reservations, and view the menu of the coffeeshop.
 
 ## Project features
 
@@ -13,4 +15,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Adding a feature that allows you to order your food or beverages through the website for pick up or delivery.
+- Adding a video catalog for additional recipes and related content.

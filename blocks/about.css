@@ -25,7 +25,7 @@
   margin: 100px 0 0 80px;
   max-width: 251px;
   color: #fff;
-  font-family: Inter, Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -44,7 +44,7 @@
 
 .about__paragraph {
   margin: 0;
-  font-family: Noto Serif, Times New Roman, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -62,12 +62,5 @@
 }
 
 .about__circle_animation_blurred {
-  position: absolute;
-  background-color: #2f80ed;
-  height: 426px;
-  width: 426px;
-  border-radius: 50%;
-  left: -129px;
-  top: -152px;
   animation: pulsate 1.3s ease-in-out 0ms infinite;
 }
