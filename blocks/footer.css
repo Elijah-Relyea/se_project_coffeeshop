@@ -17,11 +17,6 @@
 .footer__social-heading {
   color: #fff;
   margin: 0 0 20px;
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .footer__list {
@@ -48,11 +43,6 @@
 .footer__social-link {
   text-decoration: none;
   color: #fff;
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
   transition: 0.4s ease-in-out;
 }
 
@@ -63,9 +53,4 @@
 .footer__copyright {
   color: #fff;
   margin: 108px 0 0;
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
 }
